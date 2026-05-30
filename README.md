@@ -75,9 +75,9 @@ Created a Wi-Fi-enabled home automation solution with mobile application integra
 ---
 
 ## 📫 Connect With Me
-📍 Bengaluru, Karnataka, India
-📧 hariprashanth.1012@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/hari-prashanth-s-7743a122a
+ - 📍 Bengaluru, Karnataka, India
+ - 📧 hariprashanth.1012@gmail.com
+ - 💼 LinkedIn: https://www.linkedin.com/in/hari-prashanth-s-7743a122a
 
 ---
 
