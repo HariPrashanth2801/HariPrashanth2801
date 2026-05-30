@@ -7,14 +7,17 @@ I'm currently pursuing my M.E. in Embedded System Technologies at the College of
 I enjoy building embedded systems from the ground up—whether it's developing firmware for microcontrollers, integrating sensors, implementing real-time operating systems, or designing complete hardware-software solutions. My interest lies in creating reliable systems that interact with the physical world and solve practical engineering problems.
 
 My projects have involved embedded firmware development, IoT systems, control algorithms, sensor fusion, computer vision, and real-time applications using platforms such as ESP32, Arduino, Raspberry Pi, Jetson, and Xilinx devices.
+
 ---
-## 🚀 I’m currently working on ...
+
+## 🚀 Currently Exploring
  - Real-Time Operating Systems (FreeRTOS)
  - Embedded Firmware Development
  - Sensor Fusion and Intelligent Edge Systems
  - Computer Vision for Embedded Applications
  - IoT and Connected Devices
 
+---
 ## 🛠️ Technical Skills
 ### Programming Languages
  - C
@@ -39,6 +42,8 @@ My projects have involved embedded firmware development, IoT systems, control al
  - Proteus
  - CARLA Simulator
 
+---
+
 ## 📌 Featured Projects
 ### AI-Powered Advanced Rider Assistance System (ARAS)
 Designed a motorcycle safety system that combines computer vision with radar, ultrasonic, and proximity sensors to provide real-time hazard detection and rider assistance.
@@ -55,6 +60,8 @@ Built an ESP32-based monitoring platform for tracking vital signs and generating
 ### Smart Home Automation System
 Created a Wi-Fi-enabled home automation solution with mobile application integration for real-time monitoring and device control.
 
+---
+
 ## 🎯 Engineering Interests
  - Embedded Firmware
  - Real-Time Systems
@@ -65,7 +72,13 @@ Created a Wi-Fi-enabled home automation solution with mobile application integra
  - Control Systems
  - Automotive Electronics
 
+---
+
 ## 📫 Connect With Me
 📍 Bengaluru, Karnataka, India
 📧 hariprashanth.1012@gmail.com
-💼 LinkedIn: www.linkedin.com/in/hari-prashanth-s-7743a122a
+💼 LinkedIn: https://www.linkedin.com/in/hari-prashanth-s-7743a122a
+
+---
+
+💡 I enjoy building systems where software meets hardware, turning ideas into reliable real-world solutions.
