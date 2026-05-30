@@ -1,6 +1,6 @@
 # Hi there, I am Hari Prashanth 👋
 
-Embedded Systems Engineer focused on real-time firmware, intelligent edge devices, and hardware-software integration.
+### Embedded Systems Engineer focused on real-time firmware, intelligent edge devices, and hardware-software integration.
 
 I'm currently pursuing my M.E. in Embedded System Technologies at the College of Engineering, Guindy (Anna University).
 
