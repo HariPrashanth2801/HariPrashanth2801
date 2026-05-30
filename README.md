@@ -4,7 +4,7 @@
 
 I'm currently pursuing my M.E. in Embedded System Technologies at the College of Engineering, Guindy (Anna University).
 
-I enjoy building embedded systems from the ground up—whether it's developing firmware for microcontrollers, integrating sensors, implementing real-time operating systems, or designing complete hardware-software solutions. My interest lies in creating reliable systems that interact with the physical world and solve practical engineering problems.
+I enjoy building embedded systems from the ground up, whether it's developing firmware for microcontrollers, integrating sensors, implementing real-time operating systems, or designing complete hardware-software solutions. My interest lies in creating reliable systems that interact with the physical world and solve practical engineering problems.
 
 My projects have involved embedded firmware development, IoT systems, control algorithms, sensor fusion, computer vision, and real-time applications using platforms such as ESP32, Arduino, Raspberry Pi, Jetson, and Xilinx devices.
 
@@ -18,6 +18,7 @@ My projects have involved embedded firmware development, IoT systems, control al
  - IoT and Connected Devices
 
 ---
+
 ## 🛠️ Technical Skills
 ### Programming Languages
  - C
